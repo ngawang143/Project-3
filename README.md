@@ -2,7 +2,7 @@
 ## About this Project:
 This is responsive landing page about Donations.
 Tools and teach i have used
--HTML
--CSS
--SASS
+- HTML
+- CSS
+- SASS
 Thank for visiting my project
